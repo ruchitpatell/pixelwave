@@ -16,6 +16,4 @@ function setup() {
     background(0);
   
     circle(250, 250, 250);
-  
-    describe('A white circle with black outline in the middle of a gray canvas.');
 }
